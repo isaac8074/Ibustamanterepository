@@ -7,6 +7,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 - Leveraged server side technologies such as Java, Servlets, and Filters to handle requests and responses.
 - Achieved session management with HTTP sessions.
 - Utilized AWS's RDS with MariaDB to store data.
+- Utilized JUnit for testing the business layer as well as other functionalities.
 - Used Maven as a project management tool to handle dependencies inside the application.
 - Managed source control with Git version control. 
 ## Environment / Technologies
